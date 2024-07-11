@@ -1,4 +1,5 @@
  # TODO list
-App per te menaxhuar punet
+ A simple app to manage your daily tasks.
+ It uses HTML5 and CSS3.
  ## Features
- * Lista e puneve
+ * List of daily tasks
